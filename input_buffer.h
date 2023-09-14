@@ -4,6 +4,8 @@
 
 #ifndef SQLITE_INPUT_BUFFER_H
 #define SQLITE_INPUT_BUFFER_H
+#include <iostream>
+
 
 typedef struct {
     char* buffer;
